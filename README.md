@@ -1,5 +1,8 @@
-# TRANSPORT TCM
-A university project consisting of a lorry company specialising in the transport of frozen food throughout Spain. 
+# TRANSPORT TCM 
+
+<ins>Project developed with **JAVA**, **SPRING** and **MYSQL** by Marc Serrano</ins>
+
+> A university project consisting of a lorry company specialising in the transport of frozen food throughout Spain. 
 The project is in a private repository of the university subject. But the development is all done by me. 
 
 Transports TCM es una empresa de transport especialitzada en congelats. 
