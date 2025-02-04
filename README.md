@@ -28,45 +28,6 @@ Les distàncies són les següents:
  
  <img width="717" alt="image" src="https://github.com/user-attachments/assets/a69228f7-5115-4486-b88b-7fe80c8411f1" />
 
-BARCELONA
-VIGO
-SEVILLA
-VALENCIA
-MADRID
-BARCELONA
-0
-1200
-800
-400
-700
-VIGO
-1200
-0
-600
-800
-500
-SEVILLA
-800
-600
-0
-400
-500
-VALENCIA
-400
-800
-400
-0
-300
-MADRID
-700
-500
-500
-300
-0
-
- 
-
-
 Quan un camió realitza un desplaçament, s’ha de deixar constància del cost i el temps total del transport. Per calcular-l’ho es tenen en compte els següents factors:
  
 -   	Preu conductor: el conductor cobra 15€ per hora.
